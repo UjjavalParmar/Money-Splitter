@@ -14,7 +14,7 @@ Some of the features this website contains:
 8. You can Update your transaction if any changes are required. ( Only creator of the transaction can update it.)
 
 
-## Website Link http://moneysplitter.pythonanywhere.com/
+## Website Link https://money-splitter.ujjavalparmar1.repl.co
 
 ### Screen shots of the website
 
