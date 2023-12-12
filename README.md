@@ -1,7 +1,7 @@
 # Money-Splitter
 Money splitting app built using HTML, CSS, Python and django.
 
-Money Splitter is an esy to use money splitting app where you can keep track of your budgets and calculate how much money you have to give or take from your friends. This app can be very useful during trips and other occassions where calculation of budget and who pays for what is necessary.
+Money Splitter is an easy to use money splitting app where you can keep track of your budgets and calculate how much money you have to give or take from your friends. This app can be very useful during trips and other occassions where calculation of budget and who pays for what is necessary.
 
 Some of the features this website contains:
 1. Login with Google.
